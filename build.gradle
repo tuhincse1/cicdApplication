@@ -14,7 +14,7 @@ apply plugin: 'eclipse'
 apply plugin: 'spring-boot'
 
 jar {
-	baseName = 'springboots2idemo'
+	baseName = 'cicdApplication'
 	version = '0.0.1-SNAPSHOT'
 }
 sourceCompatibility = 1.8
